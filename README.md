@@ -26,17 +26,4 @@ Built with **Python** and **Streamlit**, this tool allows users to enter a compa
    ```bash
    git clone https://github.com/Kavya-Poojary26/AI-Job-Research-Agent.git
    cd AI-Job-Research-Agent
-Install dependencies
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the app
-
-bash
-Copy
-Edit
-streamlit run app.py
-Open in Browser
-Visit http://localhost:8501 to use the app.
